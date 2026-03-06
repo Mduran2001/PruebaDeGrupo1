@@ -1,6 +1,8 @@
 
 package pruebadegrupo1;
 
+import javax.swing.JOptionPane;
+
 public class PruebaDeGrupo1 {
 
    
@@ -13,6 +15,8 @@ public class PruebaDeGrupo1 {
         // Alejandro omg omg esta si sirve 
         //
         //
+
+        JOptionPane.showMessageDialog(null, "Hola mundo, estoy probando git!!");
     }
     
 }
